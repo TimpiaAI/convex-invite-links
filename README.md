@@ -1,5 +1,6 @@
 # convex-invite-links
 
+[![Convex Component](https://www.convex.dev/components/badge/convex-invite-links)](https://www.convex.dev/components/convex-invite-links)
 [![npm](https://img.shields.io/npm/v/convex-invite-links)](https://www.npmjs.com/package/convex-invite-links)
 [![license](https://img.shields.io/npm/l/convex-invite-links)](https://github.com/TimpiaAI/convex-invite-links/blob/main/LICENSE)
 
